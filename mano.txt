@@ -4,5 +4,15 @@ Now learn about creating the branch
 
 Lets execute
 
+<<<<<<< HEAD
 after barch merge
 
+=======
+This lines are add for testing merging the master  branch
+
+Second level
+
+Insert 1
+insert 2
+insert 3
+>>>>>>> chennai

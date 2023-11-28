@@ -8,4 +8,5 @@ Now i push file to Remote repository
 
 Going to edit the File
 to the file updated or not
+merge branch -edit
 
