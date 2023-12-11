@@ -2,24 +2,7 @@ need to edit the file
 
 Now learn about creating the branch 
 
-Lets execute
+Lets execute 
 
-<<<<<<< HEAD
-after barch merge
+Remove Some lines 
 
-=======
-This lines are add for testing merging the master  branch
-
-Second level
-
-Insert 1
-insert 2
-insert 3
-<<<<<<< HEAD
-
-insert 4
-insert 5
-
-=======
->>>>>>> chennai
->>>>>>> master
